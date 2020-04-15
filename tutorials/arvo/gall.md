@@ -163,7 +163,7 @@ Here's a skeleton example of an implementation:
 ++  on-poke
   |=  [=mark =vase]
   ~&  state=state
-  ~&  got-poked-with-data=mark]
+  ~&  got-poked-with-data=mark
   =.  state  +(state)
   `this
 ::
